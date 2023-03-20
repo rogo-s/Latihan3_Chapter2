@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Latihan3_Chapter2</string>
+    <string name="headerlogin">تسجيل الدخول</string>
+    <string name="login">تسجيل الدخول</string>
+    <string name="username">اسم المستخدم</string>
+    <string name="password">كلمة المرور</string>
+    <string name="signup">اشتراك</string>
+    <string name="nama">اسم</string>
+    <string name="ulangiPassword">اعد كلمة السر</string>
+    <string name="btnSignup">اشتراك</string>
+    <string name="helloWelcome">مرحبا أهلا وسهلا</string>
+</resources>

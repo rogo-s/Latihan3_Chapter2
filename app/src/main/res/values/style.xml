@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="headerLogin">
+        <item name="android:textColor">#408E91</item>
+        <item name="android:textSize">40sp</item>
+        <item name="android:layout_marginTop">20dp</item>
+    </style>
+
+    <style name="btnLogin">
+        <item name="backgroundTint">#408E91</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="cornerRadius">20dp</item>
+    </style>
+
+    <style name="signup">
+        <item name="android:textColor">#408E91</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:layout_marginTop">15dp</item>
+    </style>
+
+    <style name="headerSignup">
+        <item name="android:textColor">#408E91</item>
+        <item name="android:textSize">40sp</item>
+        <item name="android:layout_marginTop">20dp</item>
+    </style>
+
+    <style name="headerHome">
+        <item name="android:textColor">#408E91</item>
+        <item name="android:textSize">40sp</item>
+        <item name="android:layout_marginTop">20dp</item>
+    </style>
+
+    <style name="btnSignup">
+        <item name="backgroundTint">#408E91</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="cornerRadius">20dp</item>
+    </style>
+
+    <style name="login">
+        <item name="android:textColor">#408E91</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:layout_marginTop">15dp</item>
+    </style>
+</resources>

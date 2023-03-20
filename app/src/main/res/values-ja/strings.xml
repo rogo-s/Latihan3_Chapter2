@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Latihan3_Chapter2</string>
+    <string name="headerlogin">ログイン</string>
+    <string name="login">ログイン</string>
+    <string name="username">ユーザー名</string>
+    <string name="password">パスワード</string>
+    <string name="signup">サインアップ</string>
+    <string name="nama">名前</string>
+    <string name="ulangiPassword">パスワードを再度入力してください</string>
+    <string name="btnSignup">サインアップ</string>
+    <string name="helloWelcome">こんにちはようこそ</string>
+</resources>
